@@ -113,16 +113,5 @@ public class TrianguloTest {
     }
 }
 
-    //12 - nao tem como enviar numero nao inteiro
-    //@Test
-    //void validarTrianguloComValoresNaoInteiros() {
-    //    assertEquals("Entrada inválida.", Triangulo.triangulo(2.5, 3.5, 5.5));
-    //}
 
-    //13 - nao tem como enviar 2 numeros invés de 3 porque o metodo espera 3 numeros
-    //@Test
-    //void validarTrianguloComDoisValoresInvesDeTres() {
-    //    assertEquals("Entrada inválida.", Triangulo.triangulo(2, 5));
-    //}
-// }
 

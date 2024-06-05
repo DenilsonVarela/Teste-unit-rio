@@ -1,50 +1,5 @@
 package main;
 
-import java.util.Scanner;
-
-//public class Triangulo {
-//
-//    public static void main(String[] args) {
-//
-//       String resultado = triangulo(5,5,5);
-//       System.out.println(resultado);
-//    }
-//
-//
-//    public static String triangulo(int x, int y, int z) {
-//
-//
-////        System.out.println("Executar");
-////        Scanner sc = new Scanner(System.in);
-////        System.out.println("Digite três valores: ");
-//
-//        int ladoA, ladoB, ladoC;
-//
-////        try {
-////            ladoA = sc.nextInt() ;
-////            ladoB = sc.nextInt() ;
-////            ladoC = sc.nextInt() ;
-////
-////        } catch (Exception e) {
-////            return "Entrada inválida.";
-////        }
-//
-//        ladoA = x;
-//        ladoB = y;
-//        ladoC = z;
-//
-//        if (ladoA + ladoB <= ladoC || ladoA + ladoC <= ladoB || ladoB + ladoC <= ladoA) {
-//            return "Os três lados não formam um triângulo";
-//        } else if (ladoA == ladoB && ladoA ==ladoC) {
-//            return "Equilátero";
-//        } else if (ladoA == ladoB || ladoA == ladoC || ladoB == ladoC) {
-//            return "Isósceles";
-//        } else {
-//            return "Escaleno";
-//        }
-//    }
-//}
-
 /**
  * Classe Triangulo que contém métodos para determinar o tipo de um triângulo com base nos comprimentos dos seus lados.
  */
